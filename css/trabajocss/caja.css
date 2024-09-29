@@ -1,0 +1,37 @@
+* {margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.box{
+  width: 300px;
+  height: 150px;
+  /* display: block; */
+  margin-top: 50px;
+  margin-bottom: 70px;
+  margin-right: 60px;
+  margin-left: 30px;
+  margin: 10px 20px 30px 40px;
+  margin: 25px 15px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+
+  padding: 30px 30px 30px 30px;
+border: solid 3px;color: brown;
+}
+.color {
+  background-color: rgb(180, 17, 132);
+}
+.seccionA{
+  background-color: rgb(rgb(226, 112, 50), green, blue);
+  margin-bottom: 150px;
+  padding-bottom: 0,5px;
+
+}
+.seccionB{
+  margin-top: 180px;
+  border:solid 10px red;
+  /* padding-top: 0,5px */
+  background-color: yellowgreen;
+}

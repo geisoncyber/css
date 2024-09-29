@@ -1,0 +1,46 @@
+body {
+  background-color: rgb(232, 237, 237);
+}
+
+h1 {
+  font-size: 50px;
+  color: rgb(177, 40, 40);
+}
+
+main h1 {
+  color: rgb(16, 238, 64);
+}
+
+.color-titulo {
+  color: rgb(12, 12, 12);
+}
+
+#identificador {
+  background-color: rgb(56, 56, 172);
+  color: rgb(127, 19, 228);
+}
+
+[href="https://oferta.senasofiaplus.edu.co/sofia-oferta/inicio-sofia-plus.html"] {
+  color: #cf2525;
+  text-decoration: none;
+}
+
+[href="https://www.google.com/?hl=es"] {
+  color: #252bcf;
+  text-decoration: none;
+}
+
+[href="https://www.google.com/intl/es-419/gmail/about/"] 
+{
+  color: #cfcc25;
+  text-decoration: none;
+}
+
+main p {
+  color: steelblue;
+}
+
+h1,h2 {
+  color: #cf2525;
+  font-size: 45px;
+}
